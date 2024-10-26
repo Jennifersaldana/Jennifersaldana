@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jennifer Saldana!</h1>
 <h3 align="center">A passionate and curious learner from Houma, Louisiana.</h3>
 
-👩‍💻 I'm currently a cybersecurity student at Louisiana State University with a focus on memory forensics.. <br>🌱 I’m currently learning Django and React and exploring SQL and penetration testing techniques.<br>💬 Ask me about cybersecurity best practices, Java, Python, and C.<br>📫 How to reach me jenni.sald04@gmail.com<br>📄 Know about my experiences: here which highlights my internship and project work in cybersecurity and web development.<br> 🔭 I’m currently working on a **Messaging Web Application**<br>🌱 I’m currently learning **Django and React**<br> 
-  
-⚡ Fun fact: I love rollercoasters and comedy shows.
+👩‍💻 I'm currently a cybersecurity student at Louisiana State University with a focus on memory forensics.. <br>🌱 I’m currently learning Django and React and exploring SQL and penetration testing techniques.<br>💬 Ask me about cybersecurity best practices, Java, Python, and C.<br>📫 How to reach me jenni.sald04@gmail.com<br>📄 Know about my experiences: here which highlights my internship and project work in cybersecurity and web development.<br> 🔭 I’m currently working on a **Messaging Web Application**<br>🌱 I’m currently learning **Django and React**<br>⚡ Fun fact: I love rollercoasters and comedy shows.<br> 
 
 
 ## 🌐 Socials:

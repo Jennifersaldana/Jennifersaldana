@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jennifer Saldana!</h1>
 <h3 align="center">A passionate and curious learner from Houma, Louisiana.</h3>
 
-Hey there! I'm Jennifer. I'm a cybersecurity student looking for an internship to gain mentorship, experience, and networking opportunities. I love connecting with different people around the world, so please say hi.
+Hey there! I'm Jennifer. I'm a cybersecurity student looking for an internship to gain mentorship, experience, and networking opportunities. I love connecting with different people around the world, so say hi.
 
 👩‍💻 I'm currently a cybersecurity student at Louisiana State University with a focus on **memory forensics**. <br>
 🌱 I’m currently learning **Django and React** and exploring SQL and penetration testing techniques.<br>
 📫 How to reach me: jenni.sald04@gmail.com<br>
-🔭 I’m currently working on a **Messaging Web Application**.<br>
-⚡ Fun fact: I love rollercoasters and comedy shows.<br>
+🔭 I’m currently working on a hardware hacking project.<br>
+⚡ Fun fact: I love rollercoasters.<br>
 
 
 
